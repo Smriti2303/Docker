@@ -94,5 +94,5 @@ Welcome aboard **ContainerCraft**! 🌐 This is my digital dockyard where I buil
 
 **Stay connected as ContainerCraft continues evolving — there’s always something new on the horizon!** 🚀⚓
 
-> _By: [Your Name Here]_  
+> _By: Smriti Mahajan_  
 > _Inspired by real-world problems, driven by curiosity._
